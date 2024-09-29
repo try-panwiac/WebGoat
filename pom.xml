@@ -181,11 +181,11 @@
         <artifactId>zxcvbn</artifactId>
         <version>${zxcvbn.version}</version>
       </dependency>
-      <dependency>
-        <groupId>com.thoughtworks.xstream</groupId>
-        <artifactId>xstream</artifactId>
-        <version>${xstream.version}</version>
-      </dependency>
+<dependency>
+			<groupId>com.thoughtworks.xstream_xstream</groupId>
+			<artifactId>undefined</artifactId>
+			<version>1.4.16</version>
+		</dependency>
       <dependency>
         <groupId>cglib</groupId>
         <artifactId>cglib-nodep</artifactId>
